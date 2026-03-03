@@ -1,0 +1,167 @@
+RASHARD SMITH
+(678) 732-8707 | rashard_smith@proton.me | linkedin.com/in/rashard-smith-6a0227354
+Atlanta, GA | Open to Colorado Springs, CO | Remote/Hybrid Priority
+
+================================================================================
+PROFESSIONAL SUMMARY — VARIANTS (pick one per application)
+================================================================================
+
+VARIANT A — Senior Technical Support / Tier 3 Roles:
+Results-driven Tier 3 technical support professional with 12+ years of fully
+remote experience delivering complex issue resolution across enterprise workforce
+management software and Apple developer platforms. Consistently exceeds customer
+satisfaction benchmarks and first-contact resolution targets in high-volume,
+high-stakes environments. Proven mentor and process improver with deep expertise
+in escalation management, cross-functional collaboration, and knowledge base
+development. Seeking senior-level remote support or technical account management
+roles where precision, ownership, and customer outcomes drive impact.
+
+VARIANT B — Business Intelligence / Data Analytics Roles:
+Analytically focused technical professional with 12+ years of remote experience,
+currently delivering Tier 3 Business Intelligence support for enterprise workforce
+data in UKG Pro Reports and the People Analytics suite. Expert at diagnosing data
+population failures, resolving calculation errors, and guiding customers through
+advanced query design and report customization. Building formal credentials in
+Data Analytics (Google) and Data Science (IBM) to complement hands-on BI
+experience. Targeting data analyst, BI support specialist, or people analytics
+roles where technical depth and data fluency drive organizational decisions.
+
+VARIANT C — Cybersecurity Roles:
+ISC2-certified technical professional with 12+ years of fully remote experience
+in high-complexity support environments, now transitioning into cybersecurity.
+Background spans Apple developer ecosystem security (certificates, provisioning
+profiles, code signing), enterprise BI data integrity, and cross-functional
+escalation management — providing a practical, applied security mindset. Actively
+completing the IBM & ISC2 Cybersecurity Specialist Professional Certificate to
+formalize expertise. Seeking security analyst, IT security support, or GRC-adjacent
+roles where analytical rigor and a proven remote track record add immediate value.
+
+================================================================================
+EXPERIENCE
+================================================================================
+
+UKG Inc.
+Tier 3 Product Support Representative | Remote | July 2025 - Present
+
+- Deliver Tier 3 technical support for UKG Pro Reports within the Business
+  Intelligence and People Analytics suite, resolving high-complexity reporting
+  issues escalated beyond Tier 1 and Tier 2
+- Diagnose and resolve data population errors, calculation discrepancies, and
+  report logic failures using UKG's proprietary SQL-based query language
+- Guide enterprise customers through advanced report customization including
+  column and data item configuration, join management, filter logic, and
+  complex query manipulation
+- Serve as the primary customer-facing contact for Tier 3 reporting cases,
+  managing full case lifecycle from intake through resolution
+- Coordinate cross-functional escalations to specialized internal teams when
+  cases exceed defined scope, ensuring seamless handoff and customer continuity
+- Apply data analysis techniques to trace root causes of report output errors
+  across large, complex HR and workforce datasets
+
+Apple Inc.
+Apple Developer Program Support, Tier 1 Advisor | Remote | June 2017 - March 2025
+
+- Resolved an average of 28 complex developer support cases daily with an 80%
+  first-contact resolution rate
+- Maintained a 75% customer satisfaction rating, exceeding the team average of 63%
+- Specialized in troubleshooting app submission issues, developer certificate
+  problems, provisioning profiles, and development environment configurations
+- Collaborated with engineering teams to escalate and resolve critical bugs
+  affecting developer workflows
+- Contributed corrections and improvements to internal knowledge base articles,
+  increasing team efficiency and reducing repeat escalations
+- Earned multiple excellence award nominations for consistently exceeding
+  performance metrics and driving process improvements
+- Mentored 15+ new Tier 1 advisors on technical procedures and updated
+  processes, reducing onboarding time by 20%
+- Adapted to and became proficient with 12 major Apple platform updates and
+  policy changes during tenure
+
+Apple Inc.
+AppleCare Wireless Multimedia Advisor | Remote | December 2016 - June 2017
+
+- Provided expert technical support for iOS devices, AirPort devices, Apple TV,
+  and Apple Watch
+- Maintained a 75% customer satisfaction rating across approximately 20 daily
+  customer interactions with an 80% first-call resolution rate
+- Specialized in resolving complex wireless connectivity and multimedia
+  synchronization issues
+
+Apple Inc.
+AppleCare Mac+ Advisor | Remote | September 2013 - December 2016
+
+- Delivered comprehensive technical support for Mac hardware, macOS, iPhone/iPad,
+  iOS, and Apple productivity applications
+- Resolved an average of 30 complex customer issues daily with a 70%
+  satisfaction rating
+- Specialized in migration assistance, system optimization, and software
+  troubleshooting
+- Maintained 90% quality scores on support call evaluations
+- Participated in high-volume rotations supporting iTunes Store and iTunes
+  Content Provider (Podcasts) teams
+
+================================================================================
+EDUCATION
+================================================================================
+
+Georgia Perimeter College | Stone Mountain, GA | 2002 - 2003
+
+================================================================================
+CERTIFICATIONS & PROFESSIONAL DEVELOPMENT
+================================================================================
+
+ISC2 Certified in Cybersecurity (CC)                          Completed
+Google Data Analytics Certificate (Coursera)                  In Progress
+IBM Data Science Professional Certificate (Coursera)          Upcoming
+IBM & ISC2 Cybersecurity Specialist Professional Certificate  Upcoming
+
+================================================================================
+SKILLS — VARIANTS (pick ordering per application)
+================================================================================
+
+BI / ANALYTICS-FIRST:
+Business Intelligence & Data Analytics: UKG Pro Reports, UKG Business Intelligence,
+UKG People Analytics, SQL-based query language, report logic troubleshooting, join
+management, data validation, workforce data analysis, data population diagnostics,
+calculation error resolution, Google Data Analytics (in progress)
+Technical Support & Escalation: Tier 3 technical support, escalation management,
+case lifecycle management, cross-functional collaboration, SLA management,
+knowledge base development
+Apple & Developer Ecosystem: macOS, iOS, tvOS, watchOS, Xcode, TestFlight,
+App Store Connect, Developer Certificates, Provisioning Profiles, Apple ID Management
+Cybersecurity: ISC2 CC certified, security fundamentals
+Productivity & Platforms: Microsoft Office Suite, Google Suite, Apple iWork, SQL
+Core Competencies: Remote work (11+ years), technical communication, mentorship,
+process improvement, adaptability, customer lifecycle management
+
+CYBERSECURITY-FIRST:
+Cybersecurity: ISC2 Certified in Cybersecurity (CC), security fundamentals,
+developer ecosystem security (code signing, certificates, provisioning profiles),
+data integrity analysis, IBM & ISC2 Cybersecurity Specialist (in progress)
+Technical Support & Escalation: Tier 3 technical support, escalation management,
+case lifecycle management, cross-functional collaboration, knowledge base
+development, first-contact resolution, SLA management
+Business Intelligence & Data: UKG Pro Reports, UKG BI/People Analytics, SQL-based
+query language, report troubleshooting, join management, data validation,
+workforce data analysis
+Apple & Developer Ecosystem: macOS, iOS, tvOS, watchOS, Xcode, TestFlight,
+App Store Connect, Developer Certificates, Provisioning Profiles
+Productivity & Platforms: Microsoft Office Suite, Google Suite, Apple iWork, SQL
+Core Competencies: Remote work (11+ years), technical communication, mentorship,
+adaptability, process improvement, de-escalation
+
+TECHNICAL SUPPORT-FIRST:
+Technical Support & Escalation: Tier 3 escalation support, complex issue
+resolution, case lifecycle management, first-contact resolution, SLA management,
+cross-functional collaboration, knowledge base development, de-escalation,
+customer lifecycle management
+Business Intelligence & Data: UKG Pro Reports, UKG BI/People Analytics, SQL-based
+query language, report logic troubleshooting, join management, data validation,
+workforce data analysis, data population diagnostics
+Apple & Developer Ecosystem: macOS, iOS, tvOS, watchOS, Xcode, TestFlight,
+App Store Connect, Apple Developer Portal, Developer Certificates, Provisioning
+Profiles, Apple ID Management, app submission process
+Cybersecurity: ISC2 CC certified, security fundamentals
+Productivity & Platforms: Microsoft Office Suite, Google Suite, Apple iWork, SQL
+Core Competencies: Remote work (11+ years), mentorship and team development,
+process improvement, technical communication, adaptability
