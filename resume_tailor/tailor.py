@@ -172,6 +172,13 @@ def print_banner():
 def main():
     print_banner()
 
+    # Fail fast — check API key before asking for any input
+    if not os.getenv("ANTHROPIC_API_KEY"):
+        print("ERROR: ANTHROPIC_API_KEY not set.")
+        print("Copy .env.example to .env and add your Anthropic API key.")
+        print("Get a key at: https://console.anthropic.com")
+        sys.exit(1)
+
     master_resume = load_master_resume()
     print(f"Master resume loaded. ({len(master_resume.split())} words)\n")
 
